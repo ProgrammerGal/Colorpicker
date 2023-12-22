@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxsJ7pmhnl2eotFY33pwAELtjbIxNAcQ9uUPdZKsuxlObnByQfvT5P7SKk/2Xc5U10j2rqNhJ7vTGw6+QPzpTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radio\\source\\repos\\Colorpicker\\Colorpicker\\Colorpicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radio\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\radio\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

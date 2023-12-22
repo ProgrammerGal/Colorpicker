@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Colorpicker/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "4.5.2",
+          "System.Windows.Forms": "4.0.0"
+        },
+        "runtime": {
+          "Colorpicker.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.1.12": {},
+      "Microsoft.Win32.SystemEvents/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.12"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.2": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.12",
+          "Microsoft.Win32.SystemEvents": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.2",
+            "fileVersion": "4.6.29719.1"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.2",
+            "fileVersion": "4.6.29719.1"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.2",
+            "fileVersion": "4.6.29719.1"
+          }
+        }
+      },
+      "System.Windows.Forms/4.0.0": {
+        "runtime": {
+          "lib/System.Windows.Forms.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.1055.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Colorpicker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/2.1.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TVZ/a86Pcu1XngiqBMFEf5rZNv0erQ+FmGYrolRIMVtSeihOttbpyZhahmYfcxYcsmKzoUZDk1k90zbnav/PAA==",
+      "path": "microsoft.netcore.platforms/2.1.12",
+      "hashPath": "microsoft.netcore.platforms.2.1.12.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LuI1oG+24TUj1ZRQQjM5Ew73BKnZE5NZ/7eAdh1o8ST5dPhUnJvIkiIn2re3MwnkRy6ELRnvEbBxHP8uALKhJw==",
+      "path": "microsoft.win32.systemevents/4.5.0",
+      "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uie0uAukY9ZUfeJroJh6nRnzlD82ZWemYY5V/grtlQOTRfyhQSCmLXUK/1hrlKo+es64dZrVwGTbP0+vz82t7A==",
+      "path": "system.drawing.common/4.5.2",
+      "hashPath": "system.drawing.common.4.5.2.nupkg.sha512"
+    },
+    "System.Windows.Forms/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WL3QPG1q88aIWO0JPOlkCeyNE+FK4ufSKY5j6J6qAFQyfCFiiOYxi8RAhev9H0CS/wmKbIK8qr8xZBod85oWKw==",
+      "path": "system.windows.forms/4.0.0",
+      "hashPath": "system.windows.forms.4.0.0.nupkg.sha512"
+    }
+  }
+}

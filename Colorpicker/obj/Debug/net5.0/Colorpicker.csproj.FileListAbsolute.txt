@@ -1,0 +1,6 @@
+C:\Users\radio\source\repos\Colorpicker\Colorpicker\obj\Debug\net5.0\Colorpicker.csproj.AssemblyReference.cache
+C:\Users\radio\source\repos\Colorpicker\Colorpicker\obj\Debug\net5.0\Colorpicker.csproj.ResolveComReference.cache
+C:\Users\radio\source\repos\Colorpicker\Colorpicker\obj\Debug\net5.0\Colorpicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radio\source\repos\Colorpicker\Colorpicker\obj\Debug\net5.0\Colorpicker.AssemblyInfoInputs.cache
+C:\Users\radio\source\repos\Colorpicker\Colorpicker\obj\Debug\net5.0\Colorpicker.AssemblyInfo.cs
+C:\Users\radio\source\repos\Colorpicker\Colorpicker\obj\Debug\net5.0\Colorpicker.csproj.CoreCompileInputs.cache
