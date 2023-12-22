@@ -2,7 +2,7 @@
 
 ## How to use : 
 
-0. *IMPORTANT* If you haven't already, install dotnet 6.0 (x64) https://dotnet.microsoft.com/en-us/download/dotnet/6.0 *IMPORTANT*
+0. If you haven't already, **[install dotnet 6.0 (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)**
 1. Put the images you want to use in the Images folder
 2. Run the program (Colorpicker)
 3. Write the name of the image you want to colorpick from INCLUDING FILE TYPE (ex : catpicture.jpg) (most image file types supported, idk which)
