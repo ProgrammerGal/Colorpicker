@@ -16,3 +16,6 @@
 
 ## WHAT TO DO IF YOU NEED HELP WITH THE PROGRAM?
 Contact me on discord (programmergirl). Dms open!
+
+## Downloads
+[ColorpickerV1.1](https://www.mediafire.com/file/2xdxw650labd3f1/ColorpickerV1.1.zip/file)
