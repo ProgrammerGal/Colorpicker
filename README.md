@@ -1,5 +1,3 @@
-# Thank you for downloading ColorpickerV1.1!
-
 ## How to use : 
 
 0. If you haven't already, **[install dotnet 6.0 (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)**
