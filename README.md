@@ -19,3 +19,8 @@ Contact me on discord (programmergirl). Dms open!
 
 ## Downloads
 [ColorpickerV1.2](https://www.mediafire.com/file/wrmjtz9vj9aiy0v/ColorpickerV1.2.zip/file)
+
+## Updates
+### NEW IN V1.2!
+-Optimized processing of images when the palette image has more colors than the input image
+-Tried to clean up the code but honestly it looks even worse now
