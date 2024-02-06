@@ -11,7 +11,9 @@
 
 ## SUPPORTED FILE TYPES (that I know of)
 -png
+
 -jpg
+
 -bmp
 
 ## WHAT TO DO IF YOU NEED HELP WITH THE PROGRAM?
@@ -23,4 +25,5 @@ Contact me on discord (programmergirl). Dms open!
 ## Updates
 ### NEW IN V1.2!
 -Optimized processing of images when the palette image has more colors than the input image
+
 -Tried to clean up the code but honestly it looks even worse now
