@@ -18,4 +18,4 @@
 Contact me on discord (programmergirl). Dms open!
 
 ## Downloads
-[ColorpickerV1.1](https://www.mediafire.com/file/2xdxw650labd3f1/ColorpickerV1.1.zip/file)
+[ColorpickerV1.2](https://www.mediafire.com/file/wrmjtz9vj9aiy0v/ColorpickerV1.2.zip/file)
